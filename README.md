@@ -10,3 +10,10 @@ Creating backend
   developer modda yenilemeden yapmak için packet.json dosyasında bulunan "scripts" kısmına "start": "nodemon index.js" eklenmelidir.
   
   develepor modda terminale "npm start" yazılması yeterli olur.
+
+  FRONTEND
+   npm install react-router-dom
+   npm install axios (fetch data)
+
+  BACKEND
+  npm install cors
